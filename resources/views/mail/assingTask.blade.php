@@ -10,4 +10,5 @@
     <p>Dear {{ $user['name'] }},</p>
     <p>I hope this email finds you well. I am writing to assign a new task to you that I believe aligns perfectly with your expertise and skills. Your contribution is highly valued, and I have full confidence in your ability to excel in this assignment.</p>
 </body>
+
 </html>
